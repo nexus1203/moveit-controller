@@ -82,7 +82,3 @@ The code is supplied as is. The author takes no responsiblity for safety and eff
 
 # Donate
 This work is solely done to help the ROS user and new learners to get started with the moveit using the python api. If you think its helpful then please consider supporting the author.
-
-ETH based tokens: ```0xC4deD24f918a89983620654D95dA08CFA63d1628```
-
-Others: contact the author.
